@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Thu 04 Sep 2014 03:28:34 PM PDT
+
+BeginCmp
+TimeStamp = /5408B73F;
+Reference = R1;
+ValeurCmp = 1000m;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5408B406;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5408DF99;
+Reference = U1;
+ValeurCmp = TPS6213X;
+IdModule  = parts:QFN-16-1EP;
+EndCmp
+
+BeginCmp
+TimeStamp = /5408C174;
+Reference = U2;
+ValeurCmp = PIC12C508A;
+IdModule  = Sockets_DIP:DIP-8__300;
+EndCmp
+
+EndListe
