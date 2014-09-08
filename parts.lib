@@ -158,6 +158,17 @@ X PAD 17 300 -800 200 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# logo
+#
+DEF logo SILK 0 40 Y Y 1 F N
+F0 "SILK" 0 50 60 H V C CNN
+F1 "logo" 0 -50 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
 # test
 #
 DEF test U 0 40 Y Y 1 F N
