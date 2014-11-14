@@ -1,9 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP pMOS
-D IRF9540N, -100V Vds, -23A Id, HEXFET P-Channel MOSFET, TO220
-K HEXFET P-Channel MOSFET
-F http://www.irf.com/product-info/datasheets/data/irf9540n.pdf
+K P-Channel MOSFET pMOS
 $ENDCMP
 #
 #End Doc Library
