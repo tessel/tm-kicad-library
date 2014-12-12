@@ -11,13 +11,4 @@ K ARM 32bit Microcontroller 48MHz CortexM0+
 F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
 $ENDCMP
 #
-$CMP nMOS
-D N-Channel MOSFET
-K N-Channel MOSFET nMOS
-$ENDCMP
-#
-$CMP pMOS
-K P-Channel MOSFET pMOS
-$ENDCMP
-#
 #End Doc Library

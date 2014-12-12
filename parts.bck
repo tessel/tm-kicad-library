@@ -1,23 +1,23 @@
-EESchema-DOCLIB  Version 2.0
+EESchema-DOCLIB  Version 2.0  Date: Thu 11 Dec 2014 10:08:51 PM PST
 #
 $CMP DSOT23
 D Diode SOT23
 K DIODE SOT23 SOT-23
 $ENDCMP
 #
-$CMP SAMD21G14A-MU
-D SAMD20G14A-M, QFN48, 16K Flash, 2K RAM, 48MHz, CortexM0+
-K ARM 32bit Microcontroller 48MHz CortexM0+
-F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
-$ENDCMP
-#
-$CMP nMOS
+$CMP NMOS
 D N-Channel MOSFET
 K N-Channel MOSFET nMOS
 $ENDCMP
 #
-$CMP pMOS
+$CMP PMOS
 K P-Channel MOSFET pMOS
+$ENDCMP
+#
+$CMP SAMD21G14A-MU
+D SAMD20G14A-M, QFN48, 16K Flash, 2K RAM, 48MHz, CortexM0+
+K ARM 32bit Microcontroller 48MHz CortexM0+
+F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
 $ENDCMP
 #
 #End Doc Library
