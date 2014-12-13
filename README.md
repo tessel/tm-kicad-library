@@ -1,2 +1,2 @@
-kicad-resources
+tm-ki
 ===============
