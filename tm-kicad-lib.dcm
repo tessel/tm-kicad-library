@@ -9,8 +9,16 @@ D Diode SOT23
 K DIODE SOT23 SOT-23
 $ENDCMP
 #
+$CMP FAN5353
+F https://www.fairchildsemi.com/datasheets/FA/FAN5353.pdf
+$ENDCMP
+#
 $CMP FDG6342L
 F https://www.fairchildsemi.com/datasheets/FD/FDG6342L.pdf
+$ENDCMP
+#
+$CMP NCP6334B
+F http://www.onsemi.com/pub/Collateral/NCP6334B-D.PDF
 $ENDCMP
 #
 $CMP SAMD21G14A-MU
