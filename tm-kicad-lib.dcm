@@ -31,4 +31,8 @@ $CMP TPS27081A
 F http://www.ti.com/lit/ds/symlink/tps27081a.pdf
 $ENDCMP
 #
+$CMP TPS56X209
+F http://www.ti.com/lit/ds/symlink/tps563209.pdf
+$ENDCMP
+#
 #End Doc Library
