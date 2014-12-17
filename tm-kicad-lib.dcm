@@ -21,6 +21,10 @@ $CMP NCP6334B
 F http://www.onsemi.com/pub/Collateral/NCP6334B-D.PDF
 $ENDCMP
 #
+$CMP RJ45_LEDs
+F http://www.shopwiznet.com/lanotattachments/download/file/id/95/store/1/
+$ENDCMP
+#
 $CMP SAMD21G14A-MU
 D SAMD20G14A-M, QFN48, 16K Flash, 2K RAM, 48MHz, CortexM0+
 K ARM 32bit Microcontroller 48MHz CortexM0+

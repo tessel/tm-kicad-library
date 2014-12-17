@@ -1,10 +1,12 @@
-(module RB1-125BAG1A (layer F.Cu) (tedit 549015B6)
+(module RB1-125BAG1A (layer F.Cu) (tedit 54910BE9)
+  (descr http://www.shopwiznet.com/lanotattachments/download/file/id/95/store/1/)
   (fp_text reference RB1-125BAG1A (at 4.25 -6) (layer F.SilkS) hide
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_text value RJ45 (at 4.25 3.25) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
+  (fp_line (start -2.5 13.25) (end 11.5 13.25) (layer F.SilkS) (width 0.15))
   (fp_line (start -3.25 -4.5) (end 12.25 -4.5) (layer F.SilkS) (width 0.15))
   (fp_line (start -3.25 -4.5) (end -3.25 17.5) (layer F.SilkS) (width 0.15))
   (fp_line (start -3.25 17.5) (end 12.25 17.5) (layer F.SilkS) (width 0.15))
