@@ -1,10 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP A3417C
-D VOLTAGE REGULATOR DCDC SWITCHING ADJUSTABLE 1A
-F http://diodes.com/datasheets/AP3417C.pdf
-$ENDCMP
-#
 $CMP AAT4610
 F http://www.skyworksinc.com/uploads/documents/201916A.pdf
 $ENDCMP
