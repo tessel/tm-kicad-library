@@ -9,6 +9,16 @@ $CMP AAT4610
 F http://www.skyworksinc.com/uploads/documents/201916A.pdf
 $ENDCMP
 #
+$CMP AP3417C
+D VOLTAGE REGULATOR DCDC SWITCHING ADJUSTABLE 1A
+F http://diodes.com/datasheets/AP3417C.pdf
+$ENDCMP
+#
+$CMP AP3418
+D VOLTAGE REGULATOR DCDC SWITCHING ADJUSTABLE 1.5A
+F http://diodes.com/datasheets/AP3418.pdf
+$ENDCMP
+#
 $CMP DSOT23
 D Diode SOT23
 K DIODE SOT23 SOT-23
