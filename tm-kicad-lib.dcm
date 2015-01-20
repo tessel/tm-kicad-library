@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2450BL15B100
+D BALUN 2.4GHz 2.45GHz 2.5GHz 50 100
+F http://www.johansontechnology.com/images/stories/ip/baluns/JTI_Balun-2450BL15B100_6-02.pdf
+$ENDCMP
+#
 $CMP AAT4610
 F http://www.skyworksinc.com/uploads/documents/201916A.pdf
 $ENDCMP
