@@ -1,9 +1,9 @@
-(module HR911105a (layer F.Cu) (tedit 54BF1618)
+(module HR911105a (layer F.Cu) (tedit 54C2E62B)
   (descr http://www.shopwiznet.com/lanotattachments/download/file/id/95/store/1/)
   (fp_text reference HR911105a (at 0.508 -12.446) (layer F.SilkS) hide
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
-  (fp_text value RJ45 (at 0 -2.032) (layer F.SilkS)
+  (fp_text value RJ45 (at 0 -2.032) (layer F.SilkS) hide
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_line (start -8 -11) (end -8 11) (layer F.SilkS) (width 0.15))
