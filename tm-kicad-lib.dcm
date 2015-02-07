@@ -5,6 +5,11 @@ D BALUN 2.4GHz 2.45GHz 2.5GHz 50 100
 F http://www.johansontechnology.com/images/stories/ip/baluns/JTI_Balun-2450BL15B100_6-02.pdf
 $ENDCMP
 #
+$CMP AAT3110
+D Charge pump
+F http://www.skyworksinc.com/uploads/documents/202126A.pdf
+$ENDCMP
+#
 $CMP AAT4610
 F http://www.skyworksinc.com/uploads/documents/201916A.pdf
 $ENDCMP
@@ -36,6 +41,21 @@ $ENDCMP
 #
 $CMP FDG6342L
 F https://www.fairchildsemi.com/datasheets/FD/FDG6342L.pdf
+$ENDCMP
+#
+$CMP LT1004xS8-x.x
+D Precision micropower zener reference
+F http://cds.linear.com/docs/en/datasheet/1004fb.pdf
+$ENDCMP
+#
+$CMP LTC1049
+D Low power, zero drift op amp
+F http://cds.linear.com/docs/en/datasheet/1049fb.pdf
+$ENDCMP
+#
+$CMP LTC201A
+D Micropower, low charge injection, quad CMOS analog switches
+F http://cds.linear.com/docs/en/datasheet/201a23fb.pdf
 $ENDCMP
 #
 $CMP NCP103
