@@ -58,6 +58,10 @@ D Micropower, low charge injection, quad CMOS analog switches
 F http://cds.linear.com/docs/en/datasheet/201a23fb.pdf
 $ENDCMP
 #
+$CMP MT9700
+F http://wenku.baidu.com/view/47a478c36bec0975f565e238.html
+$ENDCMP
+#
 $CMP NCP103
 D LDO 150mA
 F http://www.onsemi.com/pub_link/Collateral/NCP103-D.PDF
