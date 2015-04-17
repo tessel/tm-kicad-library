@@ -58,9 +58,20 @@ D Micropower, low charge injection, quad CMOS analog switches
 F http://cds.linear.com/docs/en/datasheet/201a23fb.pdf
 $ENDCMP
 #
+$CMP MAX6102
+D 2.5V REFERENCE
+F http://datasheets.maximintegrated.com/en/ds/MAX6100-MAX6107.pdf
+$ENDCMP
+#
 $CMP MAX6106
 D 2.048V REFERENCE
 F http://datasheets.maximintegrated.com/en/ds/MAX6100-MAX6107.pdf
+$ENDCMP
+#
+$CMP MAX9919
+D CURRENT SENSE AMPLIFIER
+K MAX9918 MAX9919 MAX9920 CURRENT SENSE AMPLIFIER
+F http://datasheets.maximintegrated.com/en/ds/MAX9918-MAX9920.pdf
 $ENDCMP
 #
 $CMP MT9700
