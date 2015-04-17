@@ -109,6 +109,12 @@ $CMP TPS56X209
 F http://www.ti.com/lit/ds/symlink/tps563209.pdf
 $ENDCMP
 #
+$CMP XC6206
+D LDO 200mA
+K LDO
+F http://www.seeedstudio.com/wiki/images/7/71/1300260P1.pdf
+$ENDCMP
+#
 $CMP nRF51822-QF
 D 2.4GHz radio (BLE-capable) and ARM Cortex M0 SOC
 K nRF BLE 2.4GHz radio M0 SOC
