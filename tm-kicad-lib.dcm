@@ -58,6 +58,11 @@ D Micropower, low charge injection, quad CMOS analog switches
 F http://cds.linear.com/docs/en/datasheet/201a23fb.pdf
 $ENDCMP
 #
+$CMP MAX6106
+D 2.048V REFERENCE
+F http://datasheets.maximintegrated.com/en/ds/MAX6100-MAX6107.pdf
+$ENDCMP
+#
 $CMP MT9700
 F http://wenku.baidu.com/view/47a478c36bec0975f565e238.html
 $ENDCMP
