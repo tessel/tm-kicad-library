@@ -24,6 +24,12 @@ D VOLTAGE REGULATOR DCDC SWITCHING ADJUSTABLE 1.5A
 F http://diodes.com/datasheets/AP3418.pdf
 $ENDCMP
 #
+$CMP ATSAMD21J18A-MUT
+D SAMD21J18A-MUT, QFN64, 256k Flash, 32k RAM, 48MHz, CortexM0+
+K ARM 32bit Microcontroller 48MHz CortexM0+
+F http://www.atmel.com/Images/Atmel-42181-SAM-D21_Datasheet.pdf
+$ENDCMP
+#
 $CMP CAT24Cxx
 D I2C EEPROM, 2KB
 K I2C EEPROM 2KB
