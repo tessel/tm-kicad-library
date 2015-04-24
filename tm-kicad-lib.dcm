@@ -115,6 +115,12 @@ $CMP TPS56X209
 F http://www.ti.com/lit/ds/symlink/tps563209.pdf
 $ENDCMP
 #
+$CMP TSV324IDT
+D OP AMP QUAD SOIC
+K OPAMP OP AMP
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00063292.pdf
+$ENDCMP
+#
 $CMP XC6206
 D LDO 200mA
 K LDO
