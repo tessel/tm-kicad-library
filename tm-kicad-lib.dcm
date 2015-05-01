@@ -97,6 +97,11 @@ $CMP PAM2319
 F http://www.diodes.com/datasheets/PAM2319.pdf
 $ENDCMP
 #
+$CMP PCA9685
+D 16 CHANNEL 12 BIT PWM LED DRIVER I2C
+F http://www.nxp.com/documents/data_sheet/PCA9685.pdf
+$ENDCMP
+#
 $CMP RJ45_LEDs
 F http://www.shopwiznet.com/lanotattachments/download/file/id/95/store/1/
 $ENDCMP
